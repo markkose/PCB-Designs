@@ -2,6 +2,17 @@
 
 Here there are some of the PCBs that I designed, soldered and tested during my 2-year participation in the formula student team, Aristotle University Racing Team Electric - ARISTURTLE. 
 
+### 1. Battery Management Systems - BMS
+
+![photo](Screenshots/Screenshot_100.png)
+![photo](Screenshots/Screenshot_101.png)
+![photo](Screenshots/Screenshot_102.png)
+![photo](Screenshots/Screenshot_103.png)
+![photo](Screenshots/Screenshot_104.png)
+![photo](Screenshots/Screenshot_105.png)
+![photo](Screenshots/Screenshot_106.png)
+![photo](Screenshots/Screenshot_107.png)
+
 ### 1. Brake System Plausibility Device - BSPD PCB
 
 The BSPD PCB is safety circuit which disables the HV Power Supply of the motors controller in case the driver presses simultaniously the gas pedal and the brake pedal very hard. It consists of some active analog filters that filter the input signals of the sensors, the there are some comparators and then some digital logic that controls the relay switch that enables and disables the HV system. Here it shown the schematic of the circuit.
