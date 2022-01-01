@@ -24,7 +24,7 @@ The PCB layout of both sides and the 3D view.
 
 ### 3. STM Microcontroller PCB
 
-An MCU PCB based on the STM32F446RET6U IC is integrated in 3 different places of the car and the schematic circuit along with the PCB in 3D view are presented below..
+An MCU PCB based on the STM32F446RET6U IC is integrated in 3 different places of the car and the schematic circuit along with the PCB in 3D view are presented below.
 
 ![photo](Screenshots/Screenshot_1.png)
 ![photo](Screenshots/Screenshot_2.png)
@@ -32,12 +32,14 @@ An MCU PCB based on the STM32F446RET6U IC is integrated in 3 different places of
 
 ### 4. Auxiliary PCB
 
-Auxiliary PCB is 
+Auxiliary PCB is used as a supplementary power supply PCB. It is supplied by the low voltage system with 24V, and it is responsible to provide all the necessary voltage levels for the operation of the vehicle. The schematic circuit along with the PCB in 3D view are shown below.
+
 ![photo](Screenshots/Screenshot_7.png)
 ![photo](Screenshots/Screenshot_8.png)
 ![photo](Screenshots/Screenshot_9.png)
 
 ### 5. Fusebox PCB
+
 
 ![photo](Screenshots/Screenshot_20.png)
 ![photo](Screenshots/Screenshot_21.png)
