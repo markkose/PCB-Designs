@@ -4,7 +4,6 @@
 ### 1. Battery Management Systems - BMS
 
 ![photo](Screenshots/Screenshot_100.png)
-![photo](Screenshots/Screenshot_101.png)
 ![photo](Screenshots/Screenshot_103.png)
 ![photo](Screenshots/Screenshot_104.png)
 ![photo](Screenshots/Screenshot_105.png)
