@@ -3,7 +3,7 @@
 
 ### 1. Battery Management Systems - BMS
 
-The BMS PCB is responsible for the voltage and temperature measuremnts of of each battery cell of the system. The LTC6811 IC from Analog Devices is used for each segment of the battery pack and the schematic circuit along with the PCB in 3D view are presented below.
+The BMS PCB is responsible for the voltage and temperature measurements of each battery cell of the system. The LTC6811 IC from Analog Devices is used for each segment of the battery pack and the schematic circuit along with the PCB in 3D view are presented below.
 
 ![photo](Screenshots/Screenshot_100.png)
 ![photo](Screenshots/Screenshot_102.png)
