@@ -40,6 +40,7 @@ Auxiliary PCB is used as a supplementary power supply PCB. It is supplied by the
 
 ### 5. Fusebox PCB
 
+The Fusebox PCB is the main PCB of the Battery Pack and it consists of the Insulation Monitoring Device (IMD), the precharge and discharge circuit for the DC-Link capacitors of the motor controllers, the Master IC of the BMS and the Battery Pack Led Indicator power supply as well as some other necessary circuit for the operation of the vehicle. The schematic circuit along with the PCB in 3D view are presented below.
 
 ![photo](Screenshots/Screenshot_20.png)
 ![photo](Screenshots/Screenshot_21.png)
@@ -47,15 +48,7 @@ Auxiliary PCB is used as a supplementary power supply PCB. It is supplied by the
 ![photo](Screenshots/Screenshot_27.png)
 
 
-### 7. Custom Battery Tester (Internal Resistance Measuremet)
 
-![photo](Screenshots/Screenshot_10.png)
-![photo](Screenshots/Screenshot_11.png)
-
-### 8. Battery Charger PCB
-
-![photo](Screenshots/Screenshot_14.png)
-![photo](Screenshots/Screenshot_15.png)
 
 
 
