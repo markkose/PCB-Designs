@@ -4,11 +4,6 @@
 ### 1. Battery Management Systems - BMS
 
 ![photo](Screenshots/Screenshot_100.png)
-![photo](Screenshots/Screenshot_103.png)
-![photo](Screenshots/Screenshot_104.png)
-![photo](Screenshots/Screenshot_105.png)
-![photo](Screenshots/Screenshot_106.png)
-![photo](Screenshots/Screenshot_107.png)
 ![photo](Screenshots/Screenshot_102.png)
 
 ### 2. Brake System Plausibility Device - BSPD PCB
